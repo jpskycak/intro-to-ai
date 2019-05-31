@@ -1,5 +1,5 @@
 # basic configuration
-baseurl:
+baseurl: coding-bootcamp
 markdown: kramdown
 permalink: /:categories/:title/
 
