@@ -1,4 +1,6 @@
 ---
 layout: index
-published: false
+published: true
 ---
+
+Course description.
