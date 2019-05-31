@@ -3,5 +3,9 @@ layout: index
 published: true
 ---
 
-1. What is AI?
-2. Coding Bootcamp
+<center>
+<ol>
+  <li>What is AI?</li>
+  <li>Coding Bootcamp</li>
+</ol>
+</center>
