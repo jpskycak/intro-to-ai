@@ -3,4 +3,5 @@ layout: index
 published: true
 ---
 
-Course description.
+1. What is AI?
+2. Coding Bootcamp
