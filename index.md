@@ -2,7 +2,6 @@
 layout: index
 published: true
 ---
-
 <!-- css taken from https://stackoverflow.com/questions/4098195/can-ordered-list-produce-result-that-looks-like-1-1-1-2-1-3-instead-of-just-1 -->
 <head>
     <style type="text/css">
@@ -22,7 +21,6 @@ published: true
     }
     </style>
 </head>
-
 <div style="width:100%; max-width:400px; margin:auto">
 <ol>
   <li>Approaching AI
