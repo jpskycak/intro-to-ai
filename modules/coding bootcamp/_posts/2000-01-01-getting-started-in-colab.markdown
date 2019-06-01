@@ -5,7 +5,7 @@ title: Getting Started in Colab
 # Getting Started in Colab
 
 <br>
-It's fun to talk about AI. But what's even more fun than talking about AI, is <i>creating</i> AI. As we know from <b>Approaching AI</b>, AI consists of running computational models on computers. Hence, in order to create AI, we first need to develop some basic coding ability.
+It's fun to talk about AI. But what's even more fun than talking about AI, is <i>creating</i> AI. As we know from the previous unit, AI consists of running computational models on computers. Hence, in order to create AI, we first need to develop some basic coding ability.
 
 In this course, all of our work will be done using <i>Colab</i>, Google's online platform for IPython notebooks. In these notebooks, we will be able to write and run code that is written in the Python coding language.
 
