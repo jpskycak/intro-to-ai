@@ -6,9 +6,20 @@ published: true
 <!-- css taken from https://stackoverflow.com/questions/4098195/can-ordered-list-produce-result-that-looks-like-1-1-1-2-1-3-instead-of-just-1 -->
 <head>
     <style type="text/css">
-      ol { counter-reset: item }
-      li{ display: block }
-      li:before { content: counters(item, ".") " "; counter-increment: item }
+    ol {
+    counter-reset: item;
+    }
+    ol li {
+        display: block;
+        position: relative;
+    }
+    ol li:before {
+        content: counters(item, ".")".";
+        counter-increment: item;
+        position: absolute;
+        margin-right: 100%;
+        right: 10px; /* space between number and text */
+    }
     </style>
 </head>
 
