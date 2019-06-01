@@ -26,9 +26,10 @@ published: true
   <li>Approaching AI
     <ol>
       <li>What is AI?</li>
+      <li>The First Hype Cycle</li>
+      <li>The Second Hype Cycle</li>
+      <li>The Third Wave</li>
       <li>Cutting Through the Hype</li>
-      <li>Machine Learning in General</li>
-      <li>Deep Learning in Particular</li>
     </ol>
   </li>
   <li>Coding Bootcamp
