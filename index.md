@@ -14,7 +14,7 @@ published: true
         position: relative;
     }
     ol li:before {
-        content: counters(item, ".")".";
+        content: counters(item, ".");
         counter-increment: item;
         position: absolute;
         margin-right: 100%;
