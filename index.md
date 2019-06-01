@@ -26,7 +26,6 @@ published: true
   <li>Approaching AI
     <ol>
       <li>What is AI?</li>
-      <li>Seasons of AI</li>
       <li>Cutting Through the Hype</li>
       <li>Machine Learning in General</li>
       <li>Deep Learning in Particular</li>
