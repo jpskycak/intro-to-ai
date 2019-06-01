@@ -3,9 +3,9 @@ layout: index
 published: true
 ---
 
-<center>
+<div style="width:100%; max-width:400px; margin:auto">
 <ol>
   <li>What is AI?</li>
   <li>Coding Bootcamp</li>
 </ol>
-</center>
+</div>
