@@ -15,16 +15,16 @@ published: true
 <div style="width:100%; max-width:400px; margin:auto">
 <ol>
   <li>Approaching AI
-    <ul>
+    <ol>
       <li>What is AI?</li>
       <li>Seasons of AI</li>
       <li>Cutting Through the Hype</li>
       <li>Machine Learning in General</li>
       <li>Deep Learning in Particular</li>
-    </ul>
+    </ol>
   </li>
   <li>Coding Bootcamp
-    <ul>
+    <ol>
       <li>Getting Started in Colab</li>
       <li>Strings, Ints, Floats, and Booleans</li>
       <li>Lists, Dictionaries, and Arrays</li>
@@ -33,7 +33,7 @@ published: true
       <li>Pandas</li>
       <li>Storing Data</li>
       <li>Runtime Estimation and Speed Optimization</li>
-    </ul>
+    </ol>
   </li>
 </ol>
 </div>
