@@ -10,6 +10,7 @@ It's fun to talk about AI. But what's even more fun than talking about AI, is <i
 <br>
 In this course, all of our work will be done using <i>Colab</i>, Google's online platform for IPython notebooks. In these notebooks, we will be able to write and run code that is written in the Python coding language.
 
+<br>
 A walkthrough assignment is provided in the notebook below to help you get started in Colab. To enter the notebook, click the "Open in Colab" button that appears at the top.
 
 <small><i>(If you are unable to see the notebook below, click <a href='https://nbviewer.jupyter.org/github/jpskycak/aihigh/blob/master/intro-to-ai/codingBootcamp_gettingStartedInColab.ipynb'>here</a>.)</i></small>
