@@ -32,7 +32,7 @@ Strong AI is the kind of AI that we've been thinking of from the beginning -- th
 Weak AI, on the other hand, is a more applied -- and at least presently, realistic -- form of AI. Weak AI is focused on one narrow task, such as playing a board game, classifying parts of an image, or matching input questions to a set of predefined responses.
 
 <br>
-Much of the hype surrounding AI is due to people confusing weak AI with strong AI. <!--Media outlets might claim that an AI was-->
+Much of the hype surrounding AI is due to people confusing weak AI with strong AI. <!--Media outlets will often write about weak AI as though it were strong AI, leading readers to -->
 
 <!--
 In this unit, we will learn about the history of AI research-->
