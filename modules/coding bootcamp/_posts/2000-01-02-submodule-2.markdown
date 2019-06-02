@@ -1,7 +1,0 @@
----
-title: Submodule 2
----
-
-# Submodule 2
-
-asdf
