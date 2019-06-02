@@ -20,4 +20,12 @@ A more satisfying answer, proposed by Alan Turing in 1950 and later known as the
 Of course, building a machine that converses like a human is a lofty goal, so AI researchers started with a more approachable goal of building a machine that plays games like a human. In the 1950s and early 1960s, they succeeded in building checkers and chess programs of sufficient skill to challenge a respectable amateur.
 
 <br>
-In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding simple goal-directed dialogue. While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
+In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding simple goal-directed dialogue (such as in virtual assistants). While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
+
+<br>
+That being said, progress in AI is often surrounded by hype that greatly inflates people's perceptions of the capabilities of AI. <!--To understand the cause and inaccuracy of such hype-->
+
+<!--distinction between 2 forms of AI. Strong AI vs Weak AI. Strong AI is how we’ve been thinking of AI from the beginning -- is the intelligence of a machine that could successfully perform any intellectual task that a human being can. Appeals to the notion of AI having some kind of consciousness, sentience or mind.
+Weak AI is a more applied, and at least presently, realist, form of AI -- focused on one narrow task. Game solvers. Image classifiers/creators. Dialogue agents that match user input to predefined responses.
+To gain a better understanding of 
+In this unit, we will learn about the history of AI research-->
