@@ -23,16 +23,13 @@ Of course, building a machine that converses like a human is a lofty goal, so AI
 In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding simple goal-directed dialogue (such as in virtual assistants). While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
 
 <br>
-That being said, progress in AI is often surrounded by hype that greatly inflates people's perceptions of the capabilities of AI. To understand the cause and inaccuracy of such hype, we highlight a distinction between two forms of AI: strong AI, and weak AI.
+That being said, progress in AI is often surrounded by hype that greatly inflates people's perceptions of the capabilities of AI. To understand the cause and inaccuracy of such hype, we highlight a distinction between two forms of AI: general AI, and narrow AI.
 
 <br>
-Strong AI is the kind of AI that we've been thinking of from the beginning -- the intelligence of a machine that could successfully perform any intellectual task that a human being could. Strong AI appeals to the notion of AI having some kind of consciousness, sentience, or mind.
+General AI is the kind of AI that we've been thinking of from the beginning -- the intelligence of a machine that could successfully perform any intellectual task that a human being could. General AI appeals to the notion of AI having some kind of consciousness, sentience, or mind.
 
 <br>
-Weak AI, on the other hand, is a more applied -- and at least presently, realistic -- form of AI. Weak AI is focused on one narrow task, such as playing a board game, classifying parts of an image, or matching input questions to a set of predefined responses.
+Narrow AI, on the other hand, is a more applied -- and at least presently, realistic -- form of AI. Narrow AI is focused on one narrow task, such as playing a board game, classifying parts of an image, or matching input questions to a set of predefined responses.
 
 <br>
-Much of the hype surrounding AI is due to people confusing weak AI with strong AI. <!--Media outlets will often write about weak AI as though it were strong AI, leading readers to -->
-
-<!--
-In this unit, we will learn about the history of AI research-->
+Much of the hype surrounding AI is due to people confusing narrow AI with general AI. Just because a computer program is able to defeat the world champion in a board game, does not mean that there is any chance of the computer program developing a cure for cancer or developing a desire for world domination.
