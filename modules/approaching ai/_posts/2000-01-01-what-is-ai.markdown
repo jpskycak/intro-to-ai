@@ -11,7 +11,7 @@ To appreciate the complexity of this question, first ask yourself: how would <i>
 Perhaps, you might suggest that AI consists of machines that can think as humans do.
 
 <br>
-But what does it mean to <i>think<i> as humans do? Surely, you must think in order to multiply large numbers in your head -- but it would be dissatisfying to award this computer the title of AI based solely on its ability to multiply those same numbers.
+But what does it mean to <i>think</i> as humans do? Surely, you must think in order to multiply large numbers in your head -- but it would be dissatisfying to award this computer the title of AI based solely on its ability to multiply those same numbers.
 
 <br>
 A more satisfying answer, proposed by Alan Turing in 1950 and later known as the Turing test, is that a machine could be said to be <i>thinking</i> if it could carry on a text conversation that was indistinguishable from a conversation with a human being. To pass a well-designed Turing test, a machine must use natural language, reason, have knowledge, and learn.
