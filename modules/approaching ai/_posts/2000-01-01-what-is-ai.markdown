@@ -20,4 +20,4 @@ A more satisfying answer, proposed by Alan Turing in 1950 and later known as the
 Of course, building a machine that converses like a human is a lofty goal, so AI researchers started with a more approachable goal of building a machine that plays games like a human. In the 1950s and early 1960s, they succeeded in building checkers and chess programs of sufficient skill to challenge a respectable amateur.
 
 <br>
-In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding shallow dialogue. While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
+In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding simple goal-directed dialogue. While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
