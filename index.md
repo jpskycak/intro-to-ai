@@ -26,9 +26,11 @@ published: true
   <li>Approaching AI
     <ol>
       <li>What is AI?</li>
-      <li>The First Hype Cycle</li>
-      <li>The Second Hype Cycle</li>
-      <li>The Third Wave</li>
+      <li>The First Boom: Reasoning as Search</li>
+      <li>The First Bust</li>
+      <li>The Second Boom: Expert Systems</li>
+      <li>The Second Bust</li>
+      <li>The Third Boom: Computation Power and Connectionism</li>
       <li>Cutting Through the Hype</li>
     </ol>
   </li>
@@ -44,5 +46,9 @@ published: true
       <li>Runtime Estimation and Speed Optimization</li>
     </ol>
   </li>
+  <li>Reasoning as Search</li>
+  <li>Expert Systems</li>
+  <li>Computation Power</li>
+  <li>Connectionism</li>
 </ol>
 </div>
