@@ -5,7 +5,7 @@ title: The Second Wave꞉ Expert Systems
 # The Second Wave꞉ Expert Systems
 
 <br>
-Though AI research suffered drastic cuts in the AI winter of the 1970s, research progress did continue, albeit at a slower rate. One particularly promising area of research was the development of <b>expert systems</i>, computer programs that emulated the decision-making ability of human experts.
+Though AI research suffered drastic cuts in the AI winter of the 1970s, research progress did continue, albeit at a slower rate. One particularly promising area of research was the development of <b>expert systems</b>, computer programs that emulated the decision-making ability of human experts.
 
 <br>
 To answer questions or solve problems within a specific domain, expert systems stored “if-then” rules derived from the knowledge of experts -- for example, “if the patient has a mild fever and a rash of small red bumps, then the patient has chickenpox,” or “if the patient has chickenpox, then the patient is contagious.” A user could then query the expert system with a question such as “if the patient has a rash, is the patient contagious?” and the system would locate potential paths through the if-then rules leading from “a rash” to “contagious.” Based on those paths, the system would ask follow-up questions to determine whether a path was fully valid -- in this case, “Does the rash consist of small red bumps?” If the user answered in the affirmative, the system would then explain “Yes, the patient is contagious because the patient has chickenpox.”
