@@ -26,11 +26,9 @@ published: true
   <li>Approaching AI
     <ol>
       <li>What is AI?</li>
-      <li>The First Boom: Reasoning as Search</li>
-      <li>The First Bust</li>
-      <li>The Second Boom: Expert Systems</li>
-      <li>The Second Bust</li>
-      <li>The Third Boom: Computation Power and Connectionism</li>
+      <li>The First Wave: Reasoning as Search</li>
+      <li>The Second Wave: Expert Systems</li>
+      <li>The Third Wave: Computation Power and Connectionism</li>
       <li>Cutting Through the Hype</li>
     </ol>
   </li>
@@ -41,14 +39,12 @@ published: true
       <li>Lists, Dictionaries, and Arrays</li>
       <li>For, While, If, and Try</li>
       <li>Functions</li>
-      <li>Pandas</li>
-      <li>Storing Data</li>
+      <li>DataFrames and Storage</li>
       <li>Runtime Estimation and Speed Optimization</li>
     </ol>
   </li>
   <li>Reasoning as Search</li>
   <li>Expert Systems</li>
-  <li>Computation Power</li>
   <li>Connectionism</li>
 </ol>
 </div>
