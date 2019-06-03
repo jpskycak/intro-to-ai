@@ -18,3 +18,9 @@ For example, to prove the simple statement “if a number ends in 8, then it is 
 
 <br>
 To solve more complex problems, reasoning as search would sometimes require checking an enormous number of paths, sometimes too many even for a computer to complete in a reasonable amount of time. To decrease the number of paths that needed to be checked, researchers would often employ various <i>heuristics</i> or “rules of thumb” to ignore pathways which were unlikely to lead to a solution.
+
+<br>
+Excited by the initial accomplishments of early AI, researchers predicted that a general AI would be built in less than 20 years, and government agencies like DARPA jumped to fund further research.
+
+<br>
+But researchers and funders alike were blind to an issue that would become a major bottleneck in the growth of AI: a lack of computation power. Computers of the 1960s did not have enough memory or processing speed to run AI programs at the scale needed to accomplish anything truly useful, and as a result, researchers were unable to achieve the overhyped predictions that they had made to their funders. In response, funding was withdrawn and AI research stalled in what would become known as the AI winter of the 1970s.
