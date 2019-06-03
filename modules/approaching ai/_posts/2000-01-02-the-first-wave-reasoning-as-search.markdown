@@ -23,4 +23,7 @@ To solve more complex problems, reasoning as search would sometimes require chec
 Excited by the initial accomplishments of early AI, researchers predicted that a general AI would be built in less than 20 years, and government agencies like DARPA jumped to fund further research.
 
 <br>
-But researchers and funders alike were blind to an issue that would become a major bottleneck in the growth of AI: a lack of computation power. Computers of the 1960s did not have enough memory or processing speed to run AI programs at the scale needed to accomplish anything truly useful, and as a result, researchers were unable to achieve the overhyped predictions that they had made to their funders. In response, funding was withdrawn and AI research stalled in what would become known as the AI winter of the 1970s.
+But researchers and funders alike were blind to an issue that would become a major bottleneck in the growth of AI: a lack of computation power. Computers of the 1960s did not have enough memory or processing speed to run AI programs at the scale needed to accomplish anything truly useful, and as a result, researchers were unable to achieve the overhyped predictions that they had made to their funders.
+
+<br>
+In response, funding was withdrawn and AI research stalled in what would become known as the AI winter of the 1970s.
