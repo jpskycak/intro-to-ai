@@ -1,8 +1,8 @@
 ---
-title: The First Wave: Reasoning as Search
+title: The First Wave꞉ Reasoning as Search
 ---
 
-# The First Wave: Reasoning as Search
+# The First Wave꞉ Reasoning as Search
 
 <br>
 In 1955, scientists Newell, Simon, and Shaw created a computer program to re-prove theorems in the Principia Mathematica, a landmark book on mathematical logic. The program, called the <i>Logic Theorist</i>, succeeded in proving an impressive 38 of the first 52 theorems, and even found some new and more elegant proofs.
