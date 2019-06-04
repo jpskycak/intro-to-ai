@@ -8,7 +8,7 @@ title: Cutting Through the Hype
 Media outlets continue to write stories about AI -- and today especially, deep neural networks -- that are grotesquely sensationalized, often to the point of <b>anthropomorphizing</b> or attributing human-like characteristics to computer programs.
 
 <br>
-For example, consider the headline <i>Google Supercomputer Gives Birth To Its Own AI Child.</i> (This is a real headline; if you <a href='https://www.google.com/search?q=Google+Supercomputer+Gives+Birth+To+Its+Own+AI+Child'>Google it</a> you'll find dozens of articles with similar headlines.)
+For example, consider the headline <i>Google Supercomputer Gives Birth To Its Own AI Child.</i> (This is a real headline; if you <a href='https://www.google.com/search?q=Google+Supercomputer+Gives+Birth+To+Its+Own+AI+Child'>Google it</a> you'll find plenty of articles with similar headlines.)
 
 <br>
 <center><img src="{{ site.baseurl }}/img/google-supercomputer-gives-birth-to-its-own-ai-child.PNG" width="80%"></center>
