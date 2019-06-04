@@ -10,7 +10,7 @@ Media outlets continue to write stories about AI -- and today especially, deep n
 <br>
 For example, consider the headline <i>Google Supercomputer Gives Birth To Its Own AI Child.</i> (This is a real headline; if you <a href='https://www.google.com/search?q=Google+Supercomputer+Gives+Birth+To+Its+Own+AI+Child'>Google it</a> you'll find dozens of articles with similar headlines.)
 
-<center><img src="https://aihigh.github.io/assets/images/google-supercomputer-gives-birth-to-its-own-ai-child.png" width="80%"></img></center>
+<center><img src="https://aihigh.github.io/img/google-supercomputer-gives-birth-to-its-own-ai-child.png" width="80%"></img></center>
 
 <br>
 The way the headline is phrased, it would lead you to think that Google researchers built a futuristic computer, and that computer somehow gave birth to a human-like child that is composed of circuits rather than flesh and blood. But this is simply not true.
