@@ -14,10 +14,13 @@ For example, consider the headline <i>Google Supercomputer Gives Birth To Its Ow
 <center><img src="{{ site.baseurl }}/img/google-supercomputer-gives-birth-to-its-own-ai-child.PNG" width="80%"></center>
 
 <br>
-The way the headline is phrased, it would lead you to think that Google researchers built a futuristic computer, and that computer somehow gave birth to a human-like child that is composed of circuits rather than flesh and blood. But this is simply not true.
+The way the headline is phrased, it would lead you to think that Google researchers built a futuristic computer, and that computer somehow gave birth to a human-like child that is composed of circuits rather than flesh and blood. 
 
 <br>
-Rather, Google researchers built a model to predict a good <b>architecture</b>, or connectivity arrangement, for another model which was meant to perform a specific task. Usually, architectures are chosen by researchers building a model, but in the case of this article, researchers built another model to predict which architecture would lead to good performance on a specific task.
+<center><img src="{{ site.baseurl }}/img/google-supercomputer-creates-its-own-ai-child-dailystar.PNG" width="80%"><br><small>Taken from the Daily Star article <a href='https://www.dailystar.co.uk/news/latest-news/664713/google-artificial-intelligence-ai-child-NASNet-AutoML'><i>Google supercomputer creates its own AI CHILD</i></a></center>
+
+<br>
+But this is simply not true. Rather, Google researchers built a model to predict a good <b>architecture</b>, or connectivity arrangement, for another model which was meant to perform a specific task. Usually, architectures are chosen by researchers building a model, but in the case of this article, researchers built another model to predict which architecture would lead to good performance on a specific task.
 
 <br>
 In some analogy, then, the model being trained to perform the specific task is like a “child,” and the model predicting a good architecture for the child model is like a “parent.” But did this parent model give birth to the child model in a human-like way? Does the child model resemble a human-like child? The answer to both of these questions is a resounding no. 
