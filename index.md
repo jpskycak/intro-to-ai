@@ -25,16 +25,16 @@ published: true
 <ol>
   <li>Approaching AI
     <ol>
-      <li>What is AI?</li>
-      <li>The First Wave: Reasoning as Search</li>
-      <li>The Second Wave: Expert Systems</li>
-      <li>The Third Wave: Computation Power and Connectionism</li>
-      <li>Cutting Through the Hype</li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/what-is-ai/'>What is AI?</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-first-wave-reasoning-as-search/'>The First Wave: Reasoning as Search</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-second-wave-expert-systems/'>The Second Wave: Expert Systems</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-third-wave-computation-power-connectionism/'>The Third Wave: Computation Power and Connectionism</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/cutting-through-the-hype/'>Cutting Through the Hype</a></li>
     </ol>
   </li>
   <li>Coding Bootcamp
     <ol>
-      <li>Getting Started in Colab</li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/getting-started-in-colab/'>Getting Started in Colab</a></li>
       <li>Strings, Ints, Floats, and Booleans</li>
       <li>Lists, Dictionaries, and Arrays</li>
       <li>For, While, If, and Try</li>
