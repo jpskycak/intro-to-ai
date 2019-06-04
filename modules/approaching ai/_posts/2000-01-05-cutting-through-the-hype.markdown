@@ -17,7 +17,11 @@ For example, consider the headline <i>Google Supercomputer Gives Birth To Its Ow
 The way the headline is phrased, it would lead you to think that Google researchers built a futuristic computer, and that computer somehow gave birth to a human-like child that is composed of circuits rather than flesh and blood. 
 
 <br>
-<center><img src="{{ site.baseurl }}/img/google-supercomputer-creates-its-own-ai-child-dailystar.PNG" width="80%"><br><small>Taken from the Daily Star article <a href='https://www.dailystar.co.uk/news/latest-news/664713/google-artificial-intelligence-ai-child-NASNet-AutoML'><i>Google supercomputer creates its own AI CHILD</i></a></small></center>
+<center>
+  <img src="{{ site.baseurl }}/img/google-supercomputer-creates-its-own-ai-child-dailystar.PNG" width="80%">
+  <br>
+  <small>Taken from the Daily Star article <a href='https://www.dailystar.co.uk/news/latest-news/664713/google-artificial-intelligence-ai-child-NASNet-AutoML'><i>Google supercomputer creates its own AI CHILD</i></a></small>
+</center>
 
 <br>
 But this is simply not true. Rather, Google researchers built a model to predict a good <b>architecture</b>, or connectivity arrangement, for another model which was meant to perform a specific task. Usually, architectures are chosen by researchers building a model, but in the case of this article, researchers built another model to predict which architecture would lead to good performance on a specific task.
