@@ -23,7 +23,7 @@ published: true
 </head>
 <div style="width:100%; max-width:400px; margin:auto">
 <ol>
-  <li>Approaching AI
+ <li><b>Approaching AI</b>
     <ol>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/what-is-ai/'>What is AI?</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-first-wave-reasoning-as-search/'>The First Wave: Reasoning as Search</a></li>
@@ -32,7 +32,7 @@ published: true
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/cutting-through-the-hype/'>Cutting Through the Hype</a></li>
     </ol>
   </li>
-  <li>Coding Bootcamp
+<li><b>Coding Bootcamp</b>
     <ol>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/getting-started-in-colab/'>Getting Started in Colab</a></li>
       <li>Strings, Ints, Floats, and Booleans</li>
@@ -43,8 +43,8 @@ published: true
       <li>Runtime Estimation and Speed Optimization</li>
     </ol>
   </li>
-  <li>Reasoning as Search</li>
-  <li>Expert Systems</li>
-  <li>Connectionism</li>
+<li><b>Reasoning as Search</b></li>
+<li><b>Expert Systems</b></li>
+<li><b>Connectionism</b></li>
 </ol>
 </div>
