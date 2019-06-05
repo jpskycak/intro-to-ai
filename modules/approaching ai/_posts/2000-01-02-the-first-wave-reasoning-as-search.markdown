@@ -5,7 +5,7 @@ title: The First Wave꞉ Reasoning as Search
 # The First Wave꞉ Reasoning as Search
 
 <br>
-In 1955, scientists Newell, Simon, and Shaw created a computer program to re-prove theorems in the Principia Mathematica, a landmark book on mathematical logic. The program, called the <i>Logic Theorist</i>, succeeded in proving an impressive 38 of the first 52 theorems, and even found some new and more elegant proofs.
+In 1955, scientists Newell, Simon, and Shaw created a computer program to re-prove theorems in the <i>Principia Mathematica</i>, a landmark book on mathematical logic. The program, called the <i>Logic Theorist</i>, succeeded in proving an impressive 38 of the first 52 theorems, and even found some new and more elegant proofs.
 
 <br>
 Newell and Simon presented their Logic Theorist at the 1956 Dartmouth conference, widely considered the birth of AI as a scientific discipline. It was not long until more AI programs had been developed to accomplish other impressive tasks such as solving high school algebra and geometry problems, including word problems.
