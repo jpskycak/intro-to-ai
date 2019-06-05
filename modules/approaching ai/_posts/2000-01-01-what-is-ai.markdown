@@ -12,7 +12,7 @@ Perhaps, you might suggest that AI consists of machines that can think as humans
 
 <br>
 <center>
-  <img src="{{ site.baseurl }}/img/simple-calculator.jpg" width="60%">
+  <img src="{{ site.baseurl }}/img/simple-calculator.jpg" width="40%">
   <br>
   <small>A computer that can multiply large numbers.</small>
 </center>
