@@ -29,7 +29,7 @@ But this is simply not true. Rather, Google researchers built a model to predict
 <center>
   <img src="{{ site.baseurl }}/img/cnn-architecture.png" width="80%">
   <br>
-  <small>A diagram of a sample model architecture for a convolutional neural network.</small>
+  <small>Diagram of a sample model architecture for a convolutional neural network.</small>
 </center>
 
 <br>
