@@ -45,6 +45,7 @@ published: true
   </li>
 <li><b>Reasoning as Search</b></li>
 <li><b>Expert Systems</b></li>
+<li><b>Decision Trees and Random Forests</b></li>
 <li><b>Single-Layer Neural Networks</b></li>
 <li><b>Multi-Layer Neural Networks</b></li>
 </ol>
