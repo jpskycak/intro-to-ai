@@ -20,7 +20,7 @@ The way the headline is phrased, it would lead you to think that Google research
 <center>
   <img src="{{ site.baseurl }}/img/google-supercomputer-creates-its-own-ai-child-dailystar.PNG" width="80%">
   <br>
-  <small>Taken from the Daily Star article <a href='https://www.dailystar.co.uk/news/latest-news/664713/google-artificial-intelligence-ai-child-NASNet-AutoML'><i>Google supercomputer creates its own AI CHILD</i></a></small>
+  <small>Taken from the Daily Star article <a href='https://www.dailystar.co.uk/news/latest-news/664713/google-artificial-intelligence-ai-child-NASNet-AutoML'><i>Google supercomputer creates its own AI CHILD</i></a>.</small>
 </center>
 
 <br>
