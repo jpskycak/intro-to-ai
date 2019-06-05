@@ -22,7 +22,7 @@ A more satisfying answer, proposed by Alan Turing in 1950 and later known as the
 
 <br>
 <center>
-  <img src="{{ site.baseurl }}/img/turing-test-techtarget.jpeg" width="80%">
+  <img src="{{ site.baseurl }}/img/turing-test-techtarget.jpeg" width="90%">
   <br>
   <small>Taken from <a href='https://searchenterpriseai.techtarget.com/definition/Turing-test'>techtarget.com</a>.</small>
 </center>
