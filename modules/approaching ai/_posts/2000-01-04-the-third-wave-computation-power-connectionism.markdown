@@ -44,7 +44,7 @@ After many training repetitions, the model’s connectivity would adjust to resp
 Unfortunately, the training process for connectionist models was rather computationally intensive: many units and connections were needed, many computations had to be done for each training repetition, and many training repetitions were required in order for the model to begin to converge on a suitable connectivity configuration for a task. As a result, the models were unable to undergo sufficient training on the relatively slow computers of the 1970s.
 
 <br>
-As computation power increased, though, connectionist models such as <b>artificial neural networks</b> began to take center stage in AI. Artificial neural networks were loosely based on the brain, which exhibits many layers of neurons connected by synapses.
+As computation power increased, though, connectionist models began to take center stage in AI -- in particular, <b>artificial neural networks</b>. Artificial neural networks were loosely based on the brain, which exhibits many layers of neurons connected by synapses.
 
 <br>
 <center>
