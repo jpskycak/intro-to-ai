@@ -15,7 +15,7 @@ Newell and Simon presented their Logic Theorist at the 1956 Dartmouth conference
   <img src="{{ site.baseurl }}/img/the-dartmouth-conference.png" width="90%">
 </center>
 
-<br>
+<br><br>
 Many of these early AI programs leveraged the same underlying algorithm, <b>reasoning as search</b>, which likened the act of reasoning to the task of searching through a maze of actions for a sequence that would achieve the desired end goal.
 
 <br>
