@@ -34,6 +34,11 @@ Of course, building a machine that converses like a human is a lofty goal, so AI
 In the following decades, AI advanced to the point of beating the world champion in the world’s hardest board game, describing pictures in natural language, and holding simple goal-directed dialogue (such as in virtual assistants). While AI is still far from passing a well-designed Turing test, much progress has been and will likely continue to be made.
 
 <br>
+<center>
+  <iframe width="80%" src="https://www.youtube.com/embed/tXlM99xPQC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br>
 That being said, progress in AI is often surrounded by hype that greatly inflates people's perceptions of the capabilities of AI. To understand the cause and inaccuracy of such hype, we highlight a distinction between two forms of AI: general AI, and narrow AI.
 
 <br>
