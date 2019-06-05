@@ -27,6 +27,13 @@ The way the headline is phrased, it would lead you to think that Google research
 But this is simply not true. Rather, Google researchers built a model to predict a good <b>architecture</b>, or connectivity arrangement, for another model which was meant to perform a specific task. Usually, architectures are chosen by researchers building a model, but in the case of this article, researchers built another model to predict which architecture would lead to good performance on a specific task.
 
 <br>
+<center>
+  <img src="{{ site.baseurl }}/img/cnn-architecture.png" width="80%">
+  <br>
+  <small>A diagram of a sample model architecture for a convolutional neural network.</small>
+</center>
+
+<br>
 In some analogy, then, the model being trained to perform the specific task is like a “child,” and the model predicting a good architecture for the child model is like a “parent.” But did this parent model give birth to the child model in a human-like way? Does the child model resemble a human-like child? The answer to both of these questions is a resounding no. 
 
 <br>
