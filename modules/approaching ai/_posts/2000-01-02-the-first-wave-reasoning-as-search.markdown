@@ -11,6 +11,11 @@ In 1955, scientists Newell, Simon, and Shaw created a computer program to re-pro
 Newell and Simon presented their Logic Theorist at the 1956 Dartmouth conference, widely considered the birth of AI as a scientific discipline. It was not long until more AI programs had been developed to accomplish other impressive tasks such as solving high school algebra and geometry problems, including word problems.
 
 <br>
+<center>
+  <img src="{{ site.baseurl }}/img/the-dartmouth-conference.png" width="90%">
+</center>
+
+<br>
 Many of these early AI programs leveraged the same underlying algorithm, <b>reasoning as search</b>, which likened the act of reasoning to the task of searching through a maze of actions for a sequence that would achieve the desired end goal.
 
 <br>
