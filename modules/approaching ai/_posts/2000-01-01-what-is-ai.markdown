@@ -42,10 +42,17 @@ In the following decades, AI advanced to the point of beating the world champion
 That being said, progress in AI is often surrounded by hype that greatly inflates people's perceptions of the capabilities of AI. To understand the cause and inaccuracy of such hype, we highlight a distinction between two forms of AI: general AI, and narrow AI.
 
 <br>
-General AI is the kind of AI that we've been thinking of from the beginning -- the intelligence of a machine that could successfully perform any intellectual task that a human being could. General AI appeals to the notion of AI having some kind of consciousness, sentience, or mind.
+<b>General AI</b> is the kind of AI that we've been thinking of from the beginning -- the intelligence of a machine that could successfully perform any intellectual task that a human being could. General AI appeals to the notion of AI having some kind of consciousness, sentience, or mind.
 
 <br>
-Narrow AI, on the other hand, is a more applied -- and at least presently, realistic -- form of AI. Narrow AI is focused on one narrow task, such as playing a board game, classifying parts of an image, or matching input questions to a set of predefined responses.
+<b>Narrow AI</b>, on the other hand, is a more applied -- and at least presently, realistic -- form of AI. Narrow AI is focused on one narrow task, such as playing a board game, classifying parts of an image, or matching input questions to a set of predefined responses.
+
+<br>
+<center>
+  <img src="{{ site.baseurl }}/img/narrow-vs-general-ai-analytics-india-magazine.jpg" width="90%">
+  <br>
+  <small>Taken from <a href='https://www.analyticsindiamag.com/artificial-narrow-vs-artificial-general/'>Analytics India Magazine</a>.</small>
+</center>
 
 <br>
 Much of the hype surrounding AI is due to people confusing narrow AI with general AI. Just because a computer program is able to defeat the world champion in a board game, does not mean that there is any chance of the computer program developing a cure for cancer or developing a desire for world domination.
