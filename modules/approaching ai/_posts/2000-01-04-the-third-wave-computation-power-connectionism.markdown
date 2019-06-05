@@ -21,7 +21,12 @@ The tremendous increase in computation power led to tremendous increases in the 
 </center>
 
 <br>
-In 2009, IBM’s question answering system, <i>Watson</i>, defeated two <i>Jeopardy!</i> champions by a significant margin.
+In 2011, IBM’s question answering system, <i>Watson</i>, defeated two <i>Jeopardy!</i> champions by a significant margin.
+
+<br>
+<center>
+  <iframe width="80%" height="315" src="https://www.youtube.com/embed/P18EdAKuC1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <br>
 Advancements in computer hardware also made it feasible to create useful connectionist models, which had not performed so well in past decades due to a lack of necessary computation power. <b>Connectionist models</b> consisted of many simple processing units connected together in a way that enabled them to accomplish complicated tasks, and extensive computation power was necessary to search for the right connectivity configurations.
