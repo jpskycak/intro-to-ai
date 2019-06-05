@@ -28,7 +28,7 @@ published: true
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/what-is-ai/'>What is AI?</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-first-wave-reasoning-as-search/'>The First Wave: Reasoning as Search</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-second-wave-expert-systems/'>The Second Wave: Expert Systems</a></li>
-      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-third-wave-computation-power-connectionism/'>The Third Wave: Computation Power and Connectionism</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/the-third-wave-computation-power-connectionism/'>The Third Wave: Computation Power and Neural Networks</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/approaching ai/cutting-through-the-hype/'>Cutting Through the Hype</a></li>
     </ol>
   </li>
@@ -45,6 +45,7 @@ published: true
   </li>
 <li><b>Reasoning as Search</b></li>
 <li><b>Expert Systems</b></li>
-<li><b>Connectionism</b></li>
+<li><b>Single-Layer Neural Networks</b></li>
+<li><b>Multi-Layer Neural Networks</b></li>
 </ol>
 </div>
