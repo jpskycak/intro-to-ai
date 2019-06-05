@@ -19,6 +19,11 @@ Newell and Simon presented their Logic Theorist at the 1956 Dartmouth conference
 Many of these early AI programs leveraged the same underlying algorithm, <b>reasoning as search</b>, which likened the act of reasoning to the task of searching through a maze of actions for a sequence that would achieve the desired end goal.
 
 <br>
+<center>
+  <img src="{{ site.baseurl }}/img/reasoning-by-search.png" width="60%">
+</center>
+
+<br>
 For example, to prove the simple statement “if a number ends in 8, then it is even” given a set of valid rules, a reasoning-by-search program would construct a maze by forking a path for each possible conclusion that could be made from the assumption that a number ends in 8. Then, for each of those initial conclusions, another set of paths would be forked, consisting of the next round of conclusions that could be made by applying a rule to the initial conclusion. Somewhere in the maze would reside the conclusion that the number is even, and the computer would search all the possible paths through the maze until it found the shortest path leading to that particular conclusion. The path, comprising a chain of conclusions, would then form a proof: “if a number ends in 8, then is divisible by 2, and thus it is even.”
 
 <br>
