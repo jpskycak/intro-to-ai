@@ -66,7 +66,8 @@ published: true
         <li>Limits of Single-Layer Perceptrons</li>
         <li>Multi-Layer Perceptrons</li>
         <li>Multi-Class Perceptrons</li>
-        <li>Neural Network Architectures</li>
+        <li>States and Actions in Games</li>
+        <li>Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ -->
     </ol>
   </li>
 </ol>
