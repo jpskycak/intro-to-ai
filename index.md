@@ -51,6 +51,7 @@ published: true
         <li>Information Gain and Gini Impurity</li>
         <li>Tree Recursion</li>
         <li>Building a Tree</li>
+        <li>Making Predictions</li>
         <li>Random Forests</li>
     </ol>
   </li>
