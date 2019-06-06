@@ -46,7 +46,13 @@ published: true
 <li><b>Reasoning as Search</b></li>
 <li><b>Expert Systems</b></li>
 <li><b>Decision Trees and Random Forests</b></li>
-<li><b>Perceptrons</b></li>
-<li><b>Convolutional Neural Networks</b></li>
+<li><b>Neural Networks</b>
+    <ol>
+        <li>Single-Layer Neural Networks (Perceptrons)</li>
+        <li>Backpropagation</li>
+        <li>Multi-Layer Neural Networks</li>
+        <li>Convolutional Neural Networks</li>
+    </ol>
+  </li>
 </ol>
 </div>
