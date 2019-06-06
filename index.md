@@ -71,6 +71,7 @@ published: true
   </li>
 <li><b>Hyperparameter Tuning</b>
     <ol>
+        <li>Hyperparameters</li>
         <li>Grid Search</li>
         <li>Random Search</li>
         <li>Bayesian Optimization</li>
