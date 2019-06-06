@@ -47,7 +47,10 @@ published: true
 <li><b>Expert Systems</b></li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Decision Trees</li>
+        <li>Splits</li>
+        <li>Information Gain and Gini Impurity</li>
+        <li>Tree Recursion</li>
+        <li>Building a Tree</li>
         <li>Random Forests</li>
     </ol>
   </li>
@@ -56,8 +59,11 @@ published: true
         <li>Single-Layer Perceptrons</li>
         <li>Data Preparation</li>
         <li>Backpropagation</li>
+        <li>Hyperparameters</li>
+        <li>Limits of Single-Layer Perceptrons</li>
         <li>Multi-Layer Perceptrons</li>
         <li>Multi-Class Perceptrons</li>
+        <li>Neural Network Architectures</li>
     </ol>
   </li>
 </ol>
