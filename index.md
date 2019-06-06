@@ -69,5 +69,13 @@ published: true
         <li>Neural Network Architectures</li>
     </ol>
   </li>
+<li><b>Hyperparameter Tuning</b>
+    <ol>
+        <li>Grid Search</li>
+        <li>Random Search</li>
+        <li>Bayesian Optimization</li>
+        <li>Evolutionary Algorithms</li>
+    </ol>
+  </li>
 </ol>
 </div>
