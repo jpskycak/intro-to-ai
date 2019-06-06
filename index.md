@@ -69,12 +69,9 @@ published: true
         <li>Neural Network Architectures</li>
     </ol>
   </li>
-<li><b>Hyperparameter Tuning</b>
+<li><b>Reinforcement Learning</b>
     <ol>
-        <li>Hyperparameters</li>
-        <li>Grid Search</li>
-        <li>Random Search</li>
-        <li>Bayesian Optimization</li>
+        <li>States and Actions</li>
         <li>Evolutionary Algorithms</li>
     </ol>
   </li>
