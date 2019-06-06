@@ -57,6 +57,7 @@ published: true
         <li>Data Preparation</li>
         <li>Backpropagation</li>
         <li>Multi-Layer Perceptrons</li>
+        <li>Multi-Class Perceptrons</li>
         <li>Convolutional Neural Networks</li>
     </ol>
   </li>
