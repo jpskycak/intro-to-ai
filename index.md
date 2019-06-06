@@ -69,11 +69,5 @@ published: true
         <li>Neural Network Architectures</li>
     </ol>
   </li>
-<li><b>Reinforcement Learning</b>
-    <ol>
-        <li>States and Actions</li>
-        <li>Evolutionary Algorithms</li>
-    </ol>
-  </li>
 </ol>
 </div>
