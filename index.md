@@ -67,7 +67,7 @@ published: true
         <li>Multi-Layer Perceptrons</li>
         <li>Multi-Class Perceptrons</li>
         <li>States and Actions in Games</li>
-        <li>Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ -->
+        <li>Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ | https://www.youtube.com/watch?v=R9OHn5ZF4Uo -->
     </ol>
   </li>
 </ol>
