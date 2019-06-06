@@ -52,6 +52,8 @@ published: true
         <li>Tree Recursion</li>
         <li>Building a Tree</li>
         <li>Making Predictions</li>
+        <li>Overfitting and Cross-Validation</li>
+        <li>Pruning</li>
         <li>Random Forests</li>
     </ol>
   </li>
