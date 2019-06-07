@@ -44,7 +44,12 @@ published: true
     </ol>
   </li>
 <li><b>Reasoning as Search</b></li>
-<li><b>Expert Systems</b></li>
+<li><b>Expert Systems</b>
+    <ol>
+        <li>Knowledge Base</li>
+        <li>Inference Engine</li>
+    </ol>
+</li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
         <li>Splits</li>
