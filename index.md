@@ -43,26 +43,21 @@ published: true
       <li>Runtime Estimation and Speed Optimization</li>
     </ol>
   </li>
-<li><b>Reasoning as Search</b>
+<li><b>Early AI</b>
     <ol>
         <li>Towers of Hanoi</li>
         <li>General Problem Solver</li>
         <li>Monkey and Banana Problem</li>
         <li>Stanford Research Institute Problem Solver</li>
-        <li>Natural Language Processing</li>
+        <li>Parsing Natural Language</li>
         <li>STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>ELIZA + DOCTOR script</li>
-    </ol>
-</li>
-<li><b>Expert Systems</b>
-    <ol>
-        <li>Knowledge Base</li>
-        <li>Inference Engine</li>
+        <li>Expert Systems</li><!-- won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
     </ol>
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Splits</li>
+        <li>Classification by Splitting</li>
         <li>Information Gain and Gini Impurity</li>
         <li>Tree Recursion</li>
         <li>Building a Tree</li>
