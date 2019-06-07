@@ -58,6 +58,7 @@ published: true
 <li><b>Decision Trees and Random Forests</b>
     <ol>
         <li>Classification by Splitting</li>
+        <li>One-Hot Encoding and Binary Splitting</li>
         <li>Information Gain and Gini Impurity</li>
         <li>Tree Recursion</li>
         <li>Building a Tree</li>
