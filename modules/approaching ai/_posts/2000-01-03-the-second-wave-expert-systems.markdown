@@ -12,7 +12,8 @@ To answer questions or solve problems within a specific domain, expert systems s
 <ol>
   <li>If the patient has a mild fever and a rash of small red bumps, then the patient has chickenpox or measles.</li>
   <li>If Rule 1 is satisfied and the patient has bumps on the inside of their mouth, then the patient has measles.</li>
-  
+</ol>
+
 The system could then ask the user questions to narrow down which rules apply to the patient and thus narrow down a diagnosis. For example:
 
 ```
