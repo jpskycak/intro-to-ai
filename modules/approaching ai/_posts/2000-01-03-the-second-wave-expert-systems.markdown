@@ -10,14 +10,20 @@ Though AI research suffered drastic cuts in the AI winter of the 1970s, research
 <br>
 To answer questions or solve problems within a specific domain, expert systems stored “if-then” rules derived from the knowledge of experts. For example, a simple medical diagnosis system might include the following rules:
 <ol>
-  <li>If the patient has a mild fever and a rash of small red bumps, then the patient has chickenpox or measles.</li>
-  <li>If Rule 1 is satisfied and the patient has bumps on the inside of their mouth, then the patient has measles.</li>
+  <li>If the patient has a fever and a rash of small red bumps, then the patient has chickenpox or measles.</li>
+  <li>If Rule 1 is satisfied and the patient has small white spots inside of their mouth, then the patient has measles.</li>
 </ol>
 
-The system could then ask the user questions to narrow down which rules apply to the patient and thus narrow down a diagnosis. For example:
+The system could then ask the user questions to narrow down which rules apply to the patient and thus narrow down a diagnosis. For example, using the above rules:
 
 ```
-test
+>>> Does the patient have a fever?
+Yes
+>>> Does the patient have a rash of small red bumps?
+Yes
+>>> Does the patieht have small white spots on the inside of their mouth?
+No
+>>> The patient has chickenpox.
 ```
 
 <br>
