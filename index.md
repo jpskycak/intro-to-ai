@@ -45,11 +45,13 @@ published: true
   </li>
 <li><b>Reasoning as Search</b>
     <ol>
+        <li>Towers of Hanoi</li>
+        <li>General Problem Solver</li>
         <li>Monkey and Banana Problem</li>
         <li>Stanford Research Institute Problem Solver</li>
         <li>Natural Language Processing</li>
-        <li>ELIZA</li>
         <li>STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
+        <li>ELIZA + DOCTOR script</li>
     </ol>
 </li>
 <li><b>Expert Systems</b>
