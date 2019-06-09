@@ -5,7 +5,7 @@ title: Lists, Dictionaries, and Arrays
 # Lists, Dictionaries, and Arrays
 
 <br>
-When programming, we often work with many related pieces of data. To be organized and efficient, we store them within a single structure called a <b>data structure.</b> This way, we can efficiently perform operations on the data structure as a whole rather than having to manually operate on each piece of data.
+When programming, we often work with many related pieces of data. To be organized and efficient, we store them within a single variable called a <b>data structure.</b> This way, we can efficiently perform operations on the data structure as a whole rather than having to operate on each piece of data as a separate variable.
 
 <br>
 We will primarily be using 3 types of data structures: lists, dictionaries, and arrays.
