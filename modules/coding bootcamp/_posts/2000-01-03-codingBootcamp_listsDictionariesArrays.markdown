@@ -16,7 +16,7 @@ We will primarily be using 3 types of data structures: lists, dictionaries, and 
 </ul>
 
 <br>
-Below is a notebook assignment to help you learn how to work with these types of data structures. To enter the notebook, click the "Open in Colab" button that appears at the top.-->
+Below is a notebook assignment to help you learn how to work with these types of data structures. To enter the notebook, click the "Open in Colab" button that appears at the top.
 
 <small><i>(If you are unable to see the notebook below, click <a href='https://nbviewer.jupyter.org/github/jpskycak/aihigh/blob/master/intro-to-ai/codingBootcamp_listsDictionariesArrays.ipynb'>here</a>.)</i></small>
 
