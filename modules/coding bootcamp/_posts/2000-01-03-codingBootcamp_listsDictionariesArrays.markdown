@@ -10,9 +10,9 @@ When programming, we often work with many related pieces of data. To be organize
 <br>
 We will primarily be using 3 types of data structures: lists, dictionaries, and arrays.
 <ul>
-<li><b>Lists</b> are...</li>
-<li><b>Dictionaries</b> are...</li>
-<li><b>Arrays</b> are...</li>
+<li><b>Lists</b> store pieces of data in a sequence, so that data can be referenced by its index in the list.</li>
+  <li><b>Dictionaries</b> store pieces of data under labels called <i>keys</i>, so that data can be referenced its key in the dictionary.</li>
+<li><b>Arrays</b> store pieces of data in matrices and higher-dimensional matrices called <i>tensors</i>, so that data can be referenced by its index in the matrix or tensor.</li>
 </ul>
 
 <br>
