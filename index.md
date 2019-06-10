@@ -41,7 +41,7 @@ published: true
       <li>Functions</li>
       <li>DataFrames and Storage</li>
       <li>Runtime Estimation and Speed Optimization</li>
-      <li>Additional Practice</li><!-- link to khan academy, codecademy, etc -->
+      <li>Additional Practice</li><!-- part of succeeding in tech is taking it upon yourself to find additional practice when there are topics you're fuzzy on. link to khan academy, codecademy, etc -->
     </ol>
   </li>
 <li><b>Early AI</b>
