@@ -1,8 +1,8 @@
 ---
-title: For, While, If, and Try
+title: If, For, and While
 ---
 
-# For, While, If, and Try
+# If, For, and While
 
 <br>
 asdf
@@ -10,10 +10,9 @@ asdf
 <br>
 We will primarily be using 4 types of ______: for, while, if, and try.
 <ul>
-<li><b>For</b> asdf.</li>
+<li><b>If</b> asdf.</li>
+  <li><b>For</b> asdf.</li>
   <li><b>While</b> asdf.</li>
-  <li><b>If</b> asdf.</li>
-  <li><b>Try</b> asdf.</li>
   </ul>
 
 <br>
