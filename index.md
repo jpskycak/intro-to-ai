@@ -37,7 +37,7 @@ published: true
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/getting-started-in-colab/'>Getting Started in Colab</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/strings-ints-floats-booleans/'>Strings, Ints, Floats, and Booleans</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/lists-dictionaries-arrays/'>Lists, Dictionaries, and Arrays</a></li>
-      <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/if-for-while/'>For, While, If, and Try</a></li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/if-while-for/'>If, While, and For</a></li>
       <li>Functions</li>
       <li>DataFrames and Storage</li>
       <li>Runtime Estimation and Speed Optimization</li>
