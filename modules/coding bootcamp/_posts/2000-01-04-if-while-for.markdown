@@ -5,18 +5,18 @@ title: If, While, and For
 # If, While, and For
 
 <br>
-asdf
-
-<br>
-We will primarily be using 4 types of ______: for, while, if, and try.
+When programming, we often wish to tell the computer instructions such as:
 <ul>
-<li><b>If</b> asdf.</li>
-  <li><b>For</b> asdf.</li>
-  <li><b>While</b> asdf.</li>
-  </ul>
+  <li><b>If</b> thing X happens, then do thing Y.</li>
+  <li><b>While</b> thing X is true, do thing Y.</li>
+  <li><b>For</b> each item in collection X, do thing Y.</li>
+</ul>
 
 <br>
-Below is a notebook assignment to help you learn how to work with these types of __________. To enter the notebook, click the "Open in Colab" button that appears at the top.
+And we can, using these words (if, while, and for) exactly!
+
+<br>
+Below is a notebook assignment to help you learn how to work with "if", "while", and "for". To enter the notebook, click the "Open in Colab" button that appears at the top.
 
 <small><i>(If you are unable to see the notebook below, click <a href='https://nbviewer.jupyter.org/github/jpskycak/aihigh/blob/master/intro-to-ai/codingBootcamp_ifWhileFor.ipynb'>here</a>.)</i></small>
 
