@@ -39,7 +39,7 @@ published: true
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/lists-dictionaries-arrays/'>Lists, Dictionaries, and Arrays</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/if-while-for/'>If, While, and For</a></li>
       <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/functions/'>Functions</a></li>
-      <li>DataFrames and Storage</li>
+      <li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/dataframes-storage/'>DataFrames and Storage</a></li>
       <li>Runtime Estimation</li>
       <li>Coding Challenges</li><!-- in these tutorials, you've mostly been modifying code to understand how it works. This is good for introduction. Now we'll take what we've learned and take it a step further with coding challenges. Goal is to get to an intermediate level of coding ability. We'll begin with some elementary challenges and they'll get harder. Expect to spend more time on these next 2 sections, and expect to refer back to the previous sections a lot. a notebook of problems such as compute the first 100 primes. Hints in a second notebook. -->
     </ol>
