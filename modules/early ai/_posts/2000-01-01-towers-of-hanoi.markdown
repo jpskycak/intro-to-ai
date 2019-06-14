@@ -5,11 +5,19 @@ title: Towers of Hanoi
 # Towers of Hanoi
 
 <br>
-asdf
+Towers of hanoi
 
 <br>
 <center>
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/atWdRyQKi5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<br>
+General problem solver
+
+<br>
+<center>
+  <iframe width="80%" height="315" src="https://www.youtube.com/embed/IJiUbxx8ypE?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <br>
