@@ -56,7 +56,7 @@ published: true
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Classification, Splitting, Information Gain, and One-Hot Encoding</li>
+        <li>Classification, Splitting, Impurity, and One-Hot Encoding</li>
         <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
         <li>Pruning and Random Forests</li>
