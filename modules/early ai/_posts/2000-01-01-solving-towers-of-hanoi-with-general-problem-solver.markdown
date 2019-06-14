@@ -1,8 +1,8 @@
 ---
-title: Towers of Hanoi
+title: Solving Towers of Hanoi with General Problem Solver
 ---
 
-# Towers of Hanoi
+# Solving Towers of Hanoi with General Problem Solver
 
 <br>
 Towers of hanoi
