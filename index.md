@@ -56,15 +56,10 @@ published: true
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Classification by Splitting</li>
-        <li>One-Hot Encoding and Binary Splitting</li>
-        <li>Information Gain and Gini Impurity</li>
-        <li>Tree Recursion</li>
-        <li>Building a Tree</li>
-        <li>Making Predictions</li>
+        <li>Classification, Splitting, Information Gain, and One-Hot Encoding</li>
+        <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
-        <li>Pruning</li>
-        <li>Random Forests</li>
+        <li>Pruning and Random Forests</li>
     </ol>
   </li>
 <li><b>Neural Networks</b>
