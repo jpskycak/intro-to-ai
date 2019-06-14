@@ -49,9 +49,8 @@ published: true
     <ol>
         <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/solving-towers-of-hanoi-with-general-problem-solver/'>Solving Towers of Hanoi with General Problem Solver</a></li>
         <li>Solving Monkey and Banana Problem with Stanford Research Institute Problem Solver</li>
-        <li>Parsing Natural Language</li>
-        <li>STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
-        <li>ELIZA + DOCTOR Script</li>
+        <li>Solving Math Word Problems with STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
+        <li>Attempting the Turing Test with ELIZA + DOCTOR Script</li>
         <li>Expert Systems</li><!-- won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
     </ol>
 </li>
@@ -77,7 +76,6 @@ published: true
         <li>Limits of Single-Layer Perceptrons</li>
         <li>Multi-Layer Perceptron Architecture</li>
         <li>Multi-Class Perceptrons</li><!-- put dog images in as well >> cat, dog, or neither? -->
-        <li>States and Actions in Snake</li>
         <li>Solving Snake with Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ | https://www.youtube.com/watch?v=R9OHn5ZF4Uo -->
     </ol>
   </li>
