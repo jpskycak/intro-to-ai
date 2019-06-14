@@ -47,10 +47,8 @@ published: true
   </li>
 <li><b>Early AI</b>
     <ol>
-        <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/towers-of-hanoi/'>Towers of Hanoi</a></li>
-        <li>General Problem Solver</li>
-        <li>Monkey and Banana Problem</li>
-        <li>Stanford Research Institute Problem Solver</li>
+        <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/solving-towers-of-hanoi-with-general-problem-solver/'>Solving Towers of Hanoi with General Problem Solver</a></li>
+        <li>Solving Monkey and Banana Problem with Stanford Research Institute Problem Solver</li>
         <li>Parsing Natural Language</li>
         <li>STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>ELIZA + DOCTOR Script</li>
