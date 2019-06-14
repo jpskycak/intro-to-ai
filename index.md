@@ -47,7 +47,7 @@ published: true
   </li>
 <li><b>Early AI</b>
     <ol>
-        <li>Towers of Hanoi</li>
+        <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/towers-of-hanoi/'>Towers of Hanoi</a></li>
         <li>General Problem Solver</li>
         <li>Monkey and Banana Problem</li>
         <li>Stanford Research Institute Problem Solver</li>
