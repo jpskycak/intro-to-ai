@@ -21,7 +21,7 @@ published: true
     }
     </style>
 </head>
-<div style="width:100%; max-width:400px; margin:auto">
+<div style="width:100%; max-width:500px; margin:auto">
 <ol>
  <li><b>Approaching AI</b>
     <ol>
