@@ -1,16 +1,16 @@
 ---
-title: Solving Towers of Hanoi with General Problem Solver
+title: Solving Tower of Hanoi with General Problem Solver
 ---
 
-# Solving Towers of Hanoi with General Problem Solver
+# Solving Tower of Hanoi with General Problem Solver
 
 <br>
-Towers of hanoi
+Tower of hanoi
 
-<!--<br>
+<br>
 <center>
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/atWdRyQKi5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>-->
+</center>
 
 <br>
 General problem solver
