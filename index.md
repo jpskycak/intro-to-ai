@@ -47,7 +47,7 @@ published: true
   </li>
 <li><b>Early AI</b>
     <ol>
-        <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/solving-towers-of-hanoi-with-general-problem-solver/'>Solving Towers of Hanoi with General Problem Solver</a></li>
+        <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/solving-tower-of-hanoi-with-general-problem-solver/'>Solving Tower of Hanoi with General Problem Solver</a></li>
         <li>Solving ASDF with Stanford Research Institute Problem Solver</li>
         <li>Solving Math Word Problems with STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>Attempting the Turing Test with ELIZA + DOCTOR Script</li>
