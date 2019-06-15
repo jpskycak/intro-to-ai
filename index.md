@@ -68,8 +68,8 @@ published: true
         <li>Single-Layer Perceptron and Backpropagation</li>
         <li>Detecting Cats with a Single-Layer Perceptron</li>
         <li>Limits of Single-Layer Perceptrons</li>
-        <li>Multi-Layer Perceptrons</li>
-        <li>Multi-Class Perceptrons</li><!-- put dog images in as well >> cat, dog, or neither? -->
+        <li>Detecting Cats with Multi-Layer Perceptrons</li>
+        <li>Detecting Animal Types with Multi-Class Perceptrons</li><!-- put dog images in as well >> cat, dog, or neither? -->
         <li>Solving Snake with Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ | https://www.youtube.com/watch?v=R9OHn5ZF4Uo -->
     </ol>
   </li>
