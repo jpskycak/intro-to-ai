@@ -7,18 +7,18 @@ title: Solving Towers of Hanoi with General Problem Solver
 <br>
 Towers of hanoi
 
-<br>
+<!--<br>
 <center>
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/atWdRyQKi5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+</center>-->
 
 <br>
 General problem solver
 
-<br>
+<!--<br>
 <center>
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/IJiUbxx8ypE?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+</center>-->
 
 <br>
 A walkthrough assignment is provided in the notebook below to help you ASDF. To enter the notebook, click the "Open in Colab" button that appears at the top.
