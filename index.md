@@ -43,6 +43,7 @@ published: true
       <!--<li><a href='https://aihigh.github.io/intro-to-ai/modules/coding bootcamp/dataframes-storage/'>DataFrames and Storage</a></li>
       <li>Runtime Estimation</li>
       <li>Coding Challenges</li>--><!-- in these tutorials, you've mostly been modifying code to understand how it works. This is good for introduction. Now we'll take what we've learned and take it a step further with coding challenges. Goal is to get to an intermediate level of coding ability. We'll begin with some elementary challenges and they'll get harder. Expect to spend more time on these next 2 sections, and expect to refer back to the previous sections a lot. a notebook of problems such as compute the first 100 primes. Hints in a second notebook. -->
+      <li>Solutions</li>
     </ol>
   </li>
 <li><b>Early AI</b>
@@ -52,6 +53,7 @@ published: true
         <li>Solving Math Word Problems with STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>Attempting the Turing Test with ELIZA + DOCTOR Script</li>
         <li>Expert Systems</li><!-- won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
+        <li>Solutions</li>
     </ol>
 </li>
 <li><b>Decision Trees and Random Forests</b>
@@ -60,6 +62,7 @@ published: true
         <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
         <li>Pruning and Random Forests</li>
+        <li>Solutions</li>
     </ol>
   </li>
 <li><b>Neural Networks</b>
@@ -71,6 +74,7 @@ published: true
         <li>Detecting Cats with Multi-Layer Perceptrons</li>
         <li>Detecting Animal Types with Multi-Class Perceptrons</li><!-- put dog images in as well >> cat, dog, or neither? -->
         <li>Solving Snake with Genetic Algorithms</li><!-- https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/ | https://www.youtube.com/watch?v=R9OHn5ZF4Uo -->
+        <li>Solutions</li>
     </ol>
   </li>
 </ol>
