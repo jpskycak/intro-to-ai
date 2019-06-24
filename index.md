@@ -52,12 +52,13 @@ published: true
         <li>Solving ASDF with Stanford Research Institute Problem Solver</li>
         <li>Solving Math Word Problems with STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>Attempting the Turing Test with ELIZA + DOCTOR Script</li>
-        <li>Expert Systems</li><!-- won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
+        <!-- <li>Expert Systems</li> won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
         <li>Solutions</li>
     </ol>
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
+        <li>Relationship to Expert Systems</li>
         <li>Classification, Splitting, Impurity, and One-Hot Encoding</li>
         <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
