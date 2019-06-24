@@ -58,7 +58,7 @@ published: true
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Decision Trees as Expert Systems</li>
+        <li>Decision Trees as Expert Systems</li> <!-- the data is the expert which makes predictions -->
         <li>Classification, Splitting, Impurity, and One-Hot Encoding</li>
         <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
