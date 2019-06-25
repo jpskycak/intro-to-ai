@@ -25,8 +25,16 @@ Although the legend is interesting, you need not worry about the world ending an
   <iframe width="80%" height="315" src="https://www.youtube.com/embed/atWdRyQKi5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
+-----
+
 <br>
-General problem solver
+The main idea of General Problem Solver is that finding the solution to a problem often amounts to finding the correct  sequence of actions to achieve some result.
+
+<br>
+For example, in Towers of Hanoi, each action involves taking a disk off some tower and placing it on another tower. There is some sequence of these actions which will transfer all the disks on the leftmost tower to the rightmost tower.
+
+<br>
+If we can find a clever way to search through all the possible action sequences, then we can check each result and stop once we've found the action sequence that gives us the desired result.
 
 <!--<br>
 <center>
