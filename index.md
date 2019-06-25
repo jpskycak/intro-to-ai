@@ -49,16 +49,14 @@ published: true
 <li><b>Early AI</b>
     <ol>
         <li><a href='https://aihigh.github.io/intro-to-ai/modules/early ai/solving-tower-of-hanoi-with-general-problem-solver/'>Solving Tower of Hanoi with General Problem Solver</a></li>
-        <li>Solving ASDF with Stanford Research Institute Problem Solver</li>
         <li>Solving Math Word Problems with STUDENT</li><!--https://dspace.mit.edu/bitstream/handle/1721.1/6903/AITR-219.pdf?sequence=2&isAllowed=y-->
         <li>Attempting the Turing Test with ELIZA + DOCTOR Script</li>
-        <!-- <li>Expert Systems</li> won't spend as much time on this because expert systems by definition need a bunch of rules from experts. but we'll go through how expert systems are designed (knowledge base, inference engine) and make a smaller expert system for some situation? -->
         <li>Solutions</li>
     </ol>
 </li>
 <li><b>Decision Trees and Random Forests</b>
     <ol>
-        <li>Decision Trees as Expert Systems</li> <!-- the data is the expert which makes predictions -->
+        <li>Decision Trees as Expert Systems</li> <!-- won't make an expert system manually because expert systems by definition need a bunch of rules from experts. Instead we'll make one using data -- the data is the expert which makes the rules -->
         <li>Classification, Splitting, Impurity, and One-Hot Encoding</li>
         <li>Recursively Building a Decision Tree</li>
         <li>Overfitting and Cross-Validation</li>
